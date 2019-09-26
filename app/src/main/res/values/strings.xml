@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies</string>
+    <string  name="movie_title">Movie Title</string>
+    <string name="movie_rating">Rating : </string>
+    <string name="movie_fav">Make As Favorite</string>
+    <string name="Trailers">Trailers :</string>
+    <!--Dialog Confirmation-->
+    <string name="Confirm_message">Are You sure you won\'t to change sorting?</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="Confirm__dialog_title">Confirmation Sort Methods</string>
+    <!--image-->
+    <string name="internet_connection">No Internet Connection</string>
+    <string name="film_image">Film Image</string>
+    <!--menu name-->.
+    <string name="most_popular">Most Popular</string>
+    <string name="most_ratings">Most Ratings</string>
+    <string name="film_review">Film Review:</string>
+    <string name="long_press_any_where_to_see_on_your_browser">Long Press Any where to see on your browser</string>
+    <string name="long_press_on_youtube_icons_to_see_videos">Long Press On Youtube Icons to see Videos</string>
+    <string name="btn_un_fav">Un Favorite</string>
+
+</resources>
